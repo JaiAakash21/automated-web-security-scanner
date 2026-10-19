@@ -2,7 +2,7 @@
 
 **Program:** IBM SkillsBuild Cyber Security 2026 — conducted by BharatCares  
 **Project type:** Python-based web security configuration checker  
-**Author:** JK
+**Author:** Jai Aakash S
 
 ## 1. Project Overview
 
@@ -138,6 +138,3 @@ Do not claim a test passed unless you observed the result.
 - MDN Web Docs — Cross-Origin Resource Sharing (CORS): https://developer.mozilla.org/docs/Web/HTTP/CORS
 - Requests documentation: https://requests.readthedocs.io/
 
-## Responsible Use
-
-Use this tool only on systems you own or are explicitly authorized to assess. Follow applicable laws, organizational policies, and the program's rules.
